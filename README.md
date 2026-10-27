@@ -21,3 +21,6 @@ The same figures power the free Whop fee calculator at https://promodrop.codes/t
 
 ## Licence
 CC BY 4.0. Credit: Promo Drop (https://promodrop.codes).
+
+## DOI
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23693447
