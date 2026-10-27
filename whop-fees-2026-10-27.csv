@@ -1,0 +1,20 @@
+category,fee,percent,fixed_usd,charged_per,condition,source_url,checked_on
+Payments,Card processing (domestic card),2.7,0.30,successful transaction,always on card payments,https://docs.whop.com/fees,2026-10-27
+Payments,International card,1.5,0,successful transaction,on top of card processing when the card is international,https://docs.whop.com/fees,2026-10-27
+Payments,Currency conversion,1.0,0,successful transaction,on top of card processing when currency conversion applies,https://docs.whop.com/fees,2026-10-27
+Payments,Financing (partner),15.0,0,successful transaction,when the buyer pays through a financing partner,https://docs.whop.com/fees,2026-10-27
+Payments,Financing (ClarityPay No Interest),20.0,0,successful transaction,when the buyer uses ClarityPay No Interest,https://docs.whop.com/fees,2026-10-27
+Payments,ACH direct debit,1.5,0,successful ACH debit,maximum fee $5.00,https://docs.whop.com/fees,2026-10-27
+Payouts,Next-day ACH,0,2.50,successful payout,US bank accounts,https://docs.whop.com/fees,2026-10-27
+Payouts,Instant bank deposit (RTP),4.0,2.50,successful payout,where supported,https://docs.whop.com/fees,2026-10-27
+Payouts,Crypto,5.0,1.00,successful payout,,https://docs.whop.com/fees,2026-10-27
+Payouts,Venmo,5.0,2.50,successful payout,US recipients only,https://docs.whop.com/fees,2026-10-27
+Payouts,Bank wire,0,23.00,successful payout,,https://docs.whop.com/fees,2026-10-27
+Payouts,International local bank,,,successful payout,varies by country (not published as a single rate),https://docs.whop.com/fees,2026-10-27
+Fraud and security,3D Secure authentication,0,0.03,transaction,,https://docs.whop.com/fees,2026-10-27
+Fraud and security,Radar fraud detection,0,0.07,transaction,,https://docs.whop.com/fees,2026-10-27
+Fraud and security,Dispute,0,15.00,dispute,when a chargeback or dispute occurs,https://docs.whop.com/fees,2026-10-27
+Fraud and security,Early dispute alert (RDR),0,29.00,alert,,https://docs.whop.com/fees,2026-10-27
+Revenue optimization,Orchestration,0.8,0,transaction,when enabled,https://docs.whop.com/fees,2026-10-27
+Revenue optimization,Billing,0.5,0,transaction,when enabled,https://docs.whop.com/fees,2026-10-27
+Revenue optimization,Tax and remittance,2.0,0,transaction,when enabled and tax is collected,https://docs.whop.com/fees,2026-10-27
