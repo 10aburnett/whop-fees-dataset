@@ -17,10 +17,7 @@ A small, dated table of the seller fees Whop publishes on its official fees page
 - Example: a $100 domestic card sale with every optional add-on on and tax collected costs 6% + $0.30 in fees (Whop's own worked example).
 
 ## Free calculator
-The same figures power the free Whop fee calculator at https://promodrop.codes/tools/whop-fee-calculator and are described at https://promodrop.codes/data
+The same figures power the free Whop fee calculator at https://promodrop.codes/tools/whop-fee-calculator
 
 ## Licence
-CC BY 4.0. Credit: Promo Drop (https://promodrop.codes).
-
-## DOI
-Archived on Zenodo: https://doi.org/10.5281/zenodo.23693447
+CC BY 4.0. Credit: Promo Drop, https://promodrop.codes
